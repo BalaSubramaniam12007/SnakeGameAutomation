@@ -1,0 +1,1 @@
+Snake Game with AI, Q-Learning, and PyTorch This project integrates Q-Learning to train an AI agent to play the Snake game. Using PyTorch, the agent learns to make decisions and improve its performance by optimizing a neural network based on Q-values.
